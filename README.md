@@ -3,12 +3,10 @@ Simple web app to play around with the Keras LSTM model trained to classify the 
 
 # Run
 ```
-pip install streamlit
+pip install -r requirements.txt
+streamlit run stream.py
 ```
-https://bit.ly/3meJ7j2 is the shortened lik to https://github.com/kishdubey/sentichat_streamlit/blob/master/stream.py
-```
-streamlit run https://bit.ly/3meJ7j2
-```
+
 # Example
 ![demo](https://i.ibb.co/GcJXrfg/Hnet-image.gif)
 
