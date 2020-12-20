@@ -3,7 +3,8 @@ Simple web app to play around with the Keras LSTM model trained to classify the 
 
 # Run
 ```
-pip install -r requirements.txt
+git clone https://github.com/kishdubey/sanay-streamlit
+pip3 install -r requirements.txt
 streamlit run stream.py
 ```
 
